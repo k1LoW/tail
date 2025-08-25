@@ -1,6 +1,6 @@
 # tail
 
-`tail` provides a writer maintaining the last N lines of written data, similar to the Unix `tail` command.
+`tail` provides a writer that captures the last N lines of written data, similar to the Unix `tail` command.
 
 ## Usage
 
