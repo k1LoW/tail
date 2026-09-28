@@ -1,3 +1,3 @@
 module github.com/k1LoW/tail
 
-go 1.23.10
+go 1.26.8
